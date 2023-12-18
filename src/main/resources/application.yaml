@@ -4,10 +4,10 @@ spring:
     username: postgres
     password: ggtt1234
   mail:
-    host: {MAIL_HOST}
-    port: {MAIL_PORT}
-    username: {MAIL_USERNAME}
-    password: {MAIL_PASSWORD}
+    host: smtp.yandex.ru
+    port: 465
+    username: pgk.danila@yandex.ru
+    password: ipltsohqynwqhcpi
     properties:
       mail:
         debug: false
